@@ -11,9 +11,9 @@ using ComponentFactory.Krypton.Toolkit;
 
 namespace DVLD_Desktop
 {
-    public partial class Form1 : KryptonForm
+    public partial class MainMenu : KryptonForm
     {
-        public Form1()
+        public MainMenu()
         {
             InitializeComponent();
         }
