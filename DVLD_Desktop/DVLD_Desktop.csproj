@@ -104,9 +104,23 @@
       <Name>DVLD_Business_Layer</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="assets\Applications.png" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="assets\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\People.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\drivers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\Users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\account_settings.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

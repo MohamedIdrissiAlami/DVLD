@@ -18,14 +18,5 @@ namespace DVLD_Desktop
             InitializeComponent();
         }
 
-        private void peopleToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void driversToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
